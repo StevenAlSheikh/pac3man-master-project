@@ -5,4 +5,4 @@ Implemented classical search algorithms — Depth-First Search (DFS), Breadth-Fi
 
 Developed competitive multi-agent strategies utilizing Minimax, Alpha-Beta Pruning, and Expectimax to model adversarial behavior and probabilistic decision-making.
 
-Completed and optimized core assignments from the Pac3man Search and Pac3man Multiagent repositories, reinforcing AI techniques through hands-on problem solving.
+Completed and optimized core assignments from the Pac3man Search and Pac3man MultiAgent repositories, reinforcing AI techniques through hands-on problem solving.
